@@ -1,20 +1,12 @@
 # XsLeakCheck
 
----
-
 ## About
-
----
 
 XsLeakCheck is a lightweight memory leak detection library written in C language.
 
 Xs Represents a `Simple` Library Made by William `XIAO`.
 
-
-
 ## Feature
-
----
 
 * LightWeight(Only 2 Files)
 
@@ -24,11 +16,7 @@ Xs Represents a `Simple` Library Made by William `XIAO`.
 
 * The Code about 200 Line
 
-
-
 ## Install
-
----
 
 * make all
   
@@ -55,8 +43,6 @@ Xs Represents a `Simple` Library Made by William `XIAO`.
   * Clear all Generate File
 
 ## Usage
-
----
 
 The XsLeakCheck Library has Only Five Functions and Macro Function.
 
@@ -103,8 +89,6 @@ int Leak = XsLeakMemoryInfo();
 
 ## Example
 
----
-
 This Sample Fully Illustrates the Complete Usage of the XsLeakCheck Library.
 
 ```c
@@ -144,8 +128,6 @@ void ShowLeakMemoryInfo(void)
 
 ## License
 
----
+
 
 [The MIT License (MIT)](http://opensource.org/licenses/mit-license.php)
-
-
