@@ -1,7 +1,5 @@
 # XsLeakCheck
 
-## About
-
 XsLeakCheck is a Lightweight Memory Leak Detection Library Written in C Language.
 
 Xs Represents a `Simple` Library Made by William `XIAO`.
